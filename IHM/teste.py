@@ -5,6 +5,8 @@ import time
 winmm = ctypes.windll.winmm
 
 
+#testkke
+
 class JOYINFOEX(ctypes.Structure):
     _fields_ = [
         ("dwSize", ctypes.c_uint),

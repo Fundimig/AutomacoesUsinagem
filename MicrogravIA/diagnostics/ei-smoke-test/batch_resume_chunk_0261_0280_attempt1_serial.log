@@ -1,0 +1,50 @@
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x15 (USB_UART_CHIP_RESET),boot:0x8 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x4202b966
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce3808,len:0x4bc
+load:0x403c9700,len:0xbd8
+load:0x403cc700,len:0x2a0c
+entry 0x403c98d0
+
+========================================
+EDGE IMPULSE FOMO BATCH RUNNER
+========================================
+Chip: ESP32-S3
+PSRAM total: 8386279 bytes
+Heap free: 335964 bytes
+EI_BATCH_READY|width=96|height=96|channels=3|bytes=27648
+PC_IMAGE|id=261|file=031/foto0263.jpg|expected=031|sha256=7ACC84EB495F0BE26E3D9F5DF54954B11CD013DEA6829A3A02F301243959250D|crc32=0CB7D3EB
+
+Image 261, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117135 us
+EI_RESULT|id=261|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=4279|inference_us=117135|postprocess_us=174|heap_before=335964|heap_after=335508|psram_before=8386275|psram_after=8386275
+No objects detected
+EI_DONE|id=261
+PC_IMAGE|id=262|file=031/foto0264.jpg|expected=031|sha256=950E8CE217B9160AF4FDF98B5B170288BF97433B46804116453C1DC4721FCCA6|crc32=E6FEED29
+
+Image 262, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117143 us
+EI_RESULT|id=262|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=4268|inference_us=117143|postprocess_us=103|heap_before=335508|heap_after=335508|psram_before=8386275|psram_after=8386275
+No objects detected
+EI_DONE|id=262
+PC_IMAGE|id=263|file=031/foto0265.jpg|expected=031|sha256=059EEB4829782C0C062E592C64071F6B74653E433E55CB08D90477AF9F78974A|crc32=CE2AB36F
+
+Image 263, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117148 us
+EI_RESULT|id=263|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=4269|inference_us=117148|postprocess_us=102|heap_before=335508|heap_after=335508|psram_before=8386275|psram_after=8386275
+No objects detected
+EI_DONE|id=263
+PC_IMAGE|id=264|file=031/foto0266.jpg|expected=031|sha256=0F9F8C481C780738057E11B004B7161441A00FF89287B94762F5D41C774CE1C6|crc32=56C2BCE2
+
+Image 264, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117142 us
+EI_RESULT|id=264|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=4273|inference_us=117142|postprocess_us=102|heap_before=335508|heap_after=335508|psram_before=8386275|psram_after=8386275
+No objects detected
+EI_DONE|id=264
+PC_IMAGE|id=265|file=031/foto0267.jpg|expected=031|sha256=7A337121CF141B495D6FAB016E4327CD4590F5B4778CF94D53936EF890330D69|crc32=089BA104
+
+Image 265, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117129 us

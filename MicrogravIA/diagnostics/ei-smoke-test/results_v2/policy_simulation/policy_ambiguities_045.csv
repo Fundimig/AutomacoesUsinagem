@@ -1,0 +1,6 @@
+﻿Scenario,PolicyId,Accept045,RejectNoDetection,RejectLowConfidence,RejectAmbiguous,WrongAccept
+A,NONE_C0.50_M0.00,17,0,0,0,0
+B,ROI_CENTER_C0.50_M0.00,17,0,0,0,0
+C,ROI_CENTER_C0.90_M0.00,17,0,0,0,0
+D,ROI_CENTER_C0.90_M0.10,17,0,0,0,0
+E,ROI_CENTER_C0.95_M0.15,17,0,0,0,0

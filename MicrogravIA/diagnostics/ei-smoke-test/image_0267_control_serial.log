@@ -1,0 +1,25 @@
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x15 (USB_UART_CHIP_RESET),boot:0x8 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x4202bb32
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce3808,len:0x4bc
+load:0x403c9700,len:0xbd8
+load:0x403cc700,len:0x2a0c
+entry 0x403c98d0
+
+========================================
+EDGE IMPULSE FOMO BATCH RUNNER
+========================================
+Chip: ESP32-S3
+PSRAM total: 8386279 bytes
+Heap free: 335964 bytes
+EI_BATCH_READY|width=96|height=96|channels=3|bytes=27648
+PC_IMAGE|id=265|file=031/foto0267.jpg|expected=031|sha256=7A337121CF141B495D6FAB016E4327CD4590F5B4778CF94D53936EF890330D69|crc32=089BA104
+
+Image 265, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117131 us
+EI_RESULT|id=265|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=4274|inference_us=117131|postprocess_us=175|heap_before=335964|heap_after=335508|psram_before=8386275|psram_after=8386275
+No objects detected
+EI_DONE|id=265

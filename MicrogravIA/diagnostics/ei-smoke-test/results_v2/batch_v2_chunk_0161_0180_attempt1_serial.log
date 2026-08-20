@@ -1,0 +1,115 @@
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x15 (USB_UART_CHIP_RESET),boot:0x8 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x4202bf86
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce3808,len:0x4bc
+load:0x403c9700,len:0xbd8
+load:0x403cc700,len:0x2a0c
+entry 0x403c98d0
+
+========================================
+EDGE IMPULSE FOMO V2 RUNTIME/BATCH TEST
+========================================
+Chip: ESP32-S3
+Flash: 16777216 bytes
+Heap total: 388068 bytes
+Heap free: 363612 bytes
+Minimum heap free: 358464 bytes
+PSRAM total: 8386279 bytes
+PSRAM free: 8386275 bytes
+Model input: 160x160x1, output grid: 20x20
+Labels: 031, 045
+Resize mode: FIT_LONGEST
+EI_SMOKE_BEGIN|count=10|heap=363612|psram=8386275|min_heap=358464
+EI_SMOKE|index=1|error=0|boxes=0|dsp_us=10538|inference_us=330734|postprocess_us=268|heap=363156|psram=8386275|min_heap=358008
+EI_SMOKE|index=2|error=0|boxes=0|dsp_us=10526|inference_us=330729|postprocess_us=195|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=3|error=0|boxes=0|dsp_us=10525|inference_us=330727|postprocess_us=197|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=4|error=0|boxes=0|dsp_us=10526|inference_us=330739|postprocess_us=196|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=5|error=0|boxes=0|dsp_us=10525|inference_us=330729|postprocess_us=196|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=6|error=0|boxes=0|dsp_us=10525|inference_us=330738|postprocess_us=198|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=7|error=0|boxes=0|dsp_us=10525|inference_us=330731|postprocess_us=196|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=8|error=0|boxes=0|dsp_us=10525|inference_us=330737|postprocess_us=196|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=9|error=0|boxes=0|dsp_us=10525|inference_us=330739|postprocess_us=197|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=10|error=0|boxes=0|dsp_us=10526|inference_us=330738|postprocess_us=196|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE_FINAL|pass=1|heap_before=363612|heap_after=363156|heap_delta=-456|psram_before=8386275|psram_after=8386275|psram_delta=0|min_heap=357860
+EI_BUFFER|location=PSRAM|bytes=76800|psram_free=8309459
+EI_BATCH_READY|width=160|height=160|channels=3|bytes=76800|resize=FIT_LONGEST
+PC_IMAGE|id=161|file=031/foto0163.jpg|expected=031|sha256=E4341B26511E66E49AF34DD82E8C784756AD5A9E96BFECD31C843DB0A58FD3D4|crc32=4E3583BA|resize=160x120|pad=0,20
+EI_RESULT|id=161|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12532|inference_us=332663|postprocess_us=252|heap_before=363156|heap_after=363156|psram_before=8309459|psram_after=8309459|min_heap=357844
+EI_BOX|id=161|index=1|label=031|confidence=0.996094|x=88|y=104|w=16|h=16
+EI_DONE|id=161
+PC_IMAGE|id=162|file=031/foto0164.jpg|expected=031|sha256=F8ED10745BD08C13E298B1DF72D0919976FE5E9B64770CFB63F2DB1A8BBF59BF|crc32=16DA770F|resize=160x120|pad=0,20
+EI_RESULT|id=162|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12535|inference_us=332641|postprocess_us=252|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_BOX|id=162|index=1|label=031|confidence=0.996094|x=88|y=104|w=16|h=16
+EI_DONE|id=162
+PC_IMAGE|id=163|file=031/foto0165.jpg|expected=031|sha256=9073B6E00FF89EE21476837B88C19CFDB5466DCA96432C86FA6AA592CB5845D0|crc32=F7E99489|resize=160x120|pad=0,20
+EI_RESULT|id=163|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12533|inference_us=332672|postprocess_us=251|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_BOX|id=163|index=1|label=031|confidence=0.996094|x=88|y=104|w=16|h=16
+EI_DONE|id=163
+PC_IMAGE|id=164|file=031/foto0166.jpg|expected=031|sha256=06C65A340CED8E9935E51F67B6A6EFD0A5CF70EEDFC8C6DD7573FB8E3197E08B|crc32=D84CC814|resize=160x120|pad=0,20
+EI_RESULT|id=164|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12538|inference_us=332639|postprocess_us=244|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_BOX|id=164|index=1|label=031|confidence=0.996094|x=88|y=104|w=16|h=16
+EI_DONE|id=164
+PC_IMAGE|id=165|file=031/foto0167.jpg|expected=031|sha256=3A8E44398D8495F0BA4CBDF56DD6C607E9F3CA2382B132584DF750A3BC51E086|crc32=2110FF9B|resize=160x120|pad=0,20
+EI_RESULT|id=165|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12534|inference_us=332609|postprocess_us=251|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_BOX|id=165|index=1|label=031|confidence=0.996094|x=88|y=104|w=16|h=16
+EI_DONE|id=165
+PC_IMAGE|id=166|file=031/foto0168.jpg|expected=031|sha256=5A83FE1F834A31E079CCB4641E4FD5CE7138948115C8253A60BDB80153BE3C11|crc32=0BA8EEFA|resize=160x120|pad=0,20
+EI_RESULT|id=166|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12535|inference_us=332584|postprocess_us=244|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_BOX|id=166|index=1|label=031|confidence=0.996094|x=88|y=104|w=16|h=16
+EI_DONE|id=166
+PC_IMAGE|id=167|file=031/foto0169.jpg|expected=031|sha256=14BEA86588E7DFAA853C6F58F2EDEED034C996AC39EAE86187D421E9752508B8|crc32=47AF98EE|resize=160x120|pad=0,20
+EI_RESULT|id=167|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12537|inference_us=332586|postprocess_us=238|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_BOX|id=167|index=1|label=031|confidence=0.625000|x=80|y=104|w=8|h=8
+EI_DONE|id=167
+PC_IMAGE|id=168|file=031/foto0170.jpg|expected=031|sha256=4743C0528BBCBFF7223BF23F22A37257A931BBEE948C71B7A7C61B331E1D9201|crc32=3B94DF10|resize=160x120|pad=0,20
+EI_RESULT|id=168|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=12534|inference_us=332693|postprocess_us=202|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_DONE|id=168
+PC_IMAGE|id=169|file=031/foto0171.jpg|expected=031|sha256=8751CE8BFF133993BAAB16FB9F83EA1FCD8C9EAA6A4EF667C2D692D0CC937E49|crc32=A97015E0|resize=160x120|pad=0,20
+EI_RESULT|id=169|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12533|inference_us=332718|postprocess_us=243|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_BOX|id=169|index=1|label=031|confidence=0.996094|x=64|y=96|w=16|h=16
+EI_DONE|id=169
+PC_IMAGE|id=170|file=031/foto0172.jpg|expected=031|sha256=F227E1825CB367FD74D4510A7519FC38FC39693335A40B0EB6C90B3F17E860A9|crc32=89C0BA63|resize=160x120|pad=0,20
+EI_RESULT|id=170|expected=031|status=OK|error=0|raw_boxes=2|valid_boxes=2|dsp_us=12532|inference_us=332603|postprocess_us=274|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357596
+EI_BOX|id=170|index=1|label=031|confidence=0.542969|x=64|y=88|w=8|h=8
+EI_BOX|id=170|index=2|label=031|confidence=0.882812|x=80|y=88|w=8|h=16
+EI_DONE|id=170
+PC_IMAGE|id=171|file=031/foto0173.jpg|expected=031|sha256=AA705C2D0EB631B46F57C72222CF9AAB9124BB21520A7AB6A081942459CC4DEB|crc32=3AD29316|resize=160x120|pad=0,20
+EI_RESULT|id=171|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12533|inference_us=332649|postprocess_us=246|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357568
+EI_BOX|id=171|index=1|label=031|confidence=0.796875|x=80|y=112|w=8|h=8
+EI_DONE|id=171
+PC_IMAGE|id=172|file=031/foto0174.jpg|expected=031|sha256=68C8111C441DEC527C1D6EC944ED50DB83BF479935F196593EF5F435D552E900|crc32=33BB365B|resize=160x120|pad=0,20
+EI_RESULT|id=172|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=12532|inference_us=332642|postprocess_us=202|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357568
+EI_DONE|id=172
+PC_IMAGE|id=173|file=031/foto0175.jpg|expected=031|sha256=40CCAD588DECE095F66974CE6847034945DE998826D40D67C20187ABF1842E18|crc32=B978664D|resize=160x120|pad=0,20
+EI_RESULT|id=173|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=12533|inference_us=332736|postprocess_us=194|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357568
+EI_DONE|id=173
+PC_IMAGE|id=174|file=031/foto0176.jpg|expected=031|sha256=7B11D9B97893BDF37BC4BD4AECD511600EB28A2EE9DAA7A54DBE64654A9BDC09|crc32=D890A868|resize=160x120|pad=0,20
+EI_RESULT|id=174|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=12533|inference_us=332608|postprocess_us=203|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357568
+EI_DONE|id=174
+PC_IMAGE|id=175|file=031/foto0177.jpg|expected=031|sha256=DA72AF2DECC5A2791A7AD7AEEB32F7682B3D864664217556ED81721E85C64FFD|crc32=645856AE|resize=160x120|pad=0,20
+EI_RESULT|id=175|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12533|inference_us=332624|postprocess_us=245|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357568
+EI_BOX|id=175|index=1|label=031|confidence=0.843750|x=80|y=96|w=8|h=8
+EI_DONE|id=175
+PC_IMAGE|id=176|file=031/foto0178.jpg|expected=031|sha256=CE5C7B9B58D14D8987CDD713E34D766C9B6378F8C393AFC8527395426F23586E|crc32=1F9C9DE9|resize=160x120|pad=0,20
+EI_RESULT|id=176|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12535|inference_us=332709|postprocess_us=238|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357568
+EI_BOX|id=176|index=1|label=031|confidence=0.734375|x=72|y=96|w=8|h=8
+EI_DONE|id=176
+PC_IMAGE|id=177|file=031/foto0179.jpg|expected=031|sha256=016682221C801B5CAAB818F4C5E8B46A2F9A8481CE1124652BA1B78899A6912B|crc32=1CF86D66|resize=160x120|pad=0,20
+EI_RESULT|id=177|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12534|inference_us=332633|postprocess_us=252|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357568
+EI_BOX|id=177|index=1|label=031|confidence=0.996094|x=88|y=104|w=16|h=16
+EI_DONE|id=177
+PC_IMAGE|id=178|file=031/foto0180.jpg|expected=031|sha256=BE8381E98B03C9B972AA933C94E795CD0E96136A3DD9CE49DC21EE56B8A6B078|crc32=14A691B7|resize=160x120|pad=0,20
+EI_RESULT|id=178|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12535|inference_us=332620|postprocess_us=252|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357564
+EI_BOX|id=178|index=1|label=031|confidence=0.996094|x=80|y=104|w=24|h=16
+EI_DONE|id=178
+PC_IMAGE|id=179|file=031/foto0181.jpg|expected=031|sha256=8D64E05F6BFC57224066727B015CE2622999B015D9715BB34A2E6C62C57BC631|crc32=F858581D|resize=160x120|pad=0,20
+EI_RESULT|id=179|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12534|inference_us=332610|postprocess_us=252|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357564
+EI_BOX|id=179|index=1|label=031|confidence=0.996094|x=80|y=104|w=24|h=16
+EI_DONE|id=179
+PC_IMAGE|id=180|file=031/foto0182.jpg|expected=031|sha256=2FEFB0E27F7C7EF5E40BB2F9D0DDC47780240EE82724A37B6CA9706743BB6B15|crc32=9DEB3E57|resize=160x120|pad=0,20
+EI_RESULT|id=180|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12534|inference_us=332568|postprocess_us=250|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357564
+EI_BOX|id=180|index=1|label=031|confidence=0.996094|x=80|y=104|w=24|h=16
+EI_DONE|id=180

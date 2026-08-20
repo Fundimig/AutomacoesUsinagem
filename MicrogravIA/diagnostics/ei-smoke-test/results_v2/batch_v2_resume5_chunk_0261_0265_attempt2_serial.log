@@ -1,0 +1,54 @@
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x15 (USB_UART_CHIP_RESET),boot:0x8 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x4202bf92
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce3808,len:0x4bc
+load:0x403c9700,len:0xbd8
+load:0x403cc700,len:0x2a0c
+entry 0x403c98d0
+
+========================================
+EDGE IMPULSE FOMO V2 RUNTIME/BATCH TEST
+========================================
+Chip: ESP32-S3
+Flash: 16777216 bytes
+Heap total: 388068 bytes
+Heap free: 363612 bytes
+Minimum heap free: 358464 bytes
+PSRAM total: 8386279 bytes
+PSRAM free: 8386275 bytes
+Model input: 160x160x1, output grid: 20x20
+Labels: 031, 045
+Resize mode: FIT_LONGEST
+EI_SMOKE_BEGIN|count=10|heap=363612|psram=8386275|min_heap=358464
+EI_SMOKE|index=1|error=0|boxes=0|dsp_us=10544|inference_us=331727|postprocess_us=268|heap=363156|psram=8386275|min_heap=358008
+EI_SMOKE|index=2|error=0|boxes=0|dsp_us=10535|inference_us=331717|postprocess_us=197|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=3|error=0|boxes=0|dsp_us=10534|inference_us=331723|postprocess_us=198|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=4|error=0|boxes=0|dsp_us=10535|inference_us=331723|postprocess_us=202|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=5|error=0|boxes=0|dsp_us=10535|inference_us=331729|postprocess_us=197|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=6|error=0|boxes=0|dsp_us=10534|inference_us=331727|postprocess_us=201|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=7|error=0|boxes=0|dsp_us=10535|inference_us=331726|postprocess_us=197|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=8|error=0|boxes=0|dsp_us=10535|inference_us=331724|postprocess_us=201|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=9|error=0|boxes=0|dsp_us=10534|inference_us=331726|postprocess_us=198|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=10|error=0|boxes=0|dsp_us=10535|inference_us=331721|postprocess_us=201|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE_FINAL|pass=1|heap_before=363612|heap_after=363156|heap_delta=-456|psram_before=8386275|psram_after=8386275|psram_delta=0|min_heap=357860
+EI_BUFFER|location=PSRAM|bytes=76800|psram_free=8309459
+EI_BATCH_READY|width=160|height=160|channels=3|bytes=76800|resize=FIT_LONGEST
+PC_IMAGE|id=261|file=031/foto0263.jpg|expected=031|sha256=7ACC84EB495F0BE26E3D9F5DF54954B11CD013DEA6829A3A02F301243959250D|crc32=45B86AA5|resize=160x120|pad=0,20
+EI_RESULT|id=261|expected=031|status=OK|error=0|raw_boxes=2|valid_boxes=2|dsp_us=12559|inference_us=333548|postprocess_us=277|heap_before=363156|heap_after=363156|psram_before=8309459|psram_after=8309459|min_heap=357844
+EI_BOX|id=261|index=1|label=031|confidence=0.992188|x=72|y=88|w=16|h=8
+EI_BOX|id=261|index=2|label=045|confidence=0.921875|x=80|y=96|w=8|h=8
+EI_DONE|id=261
+PC_IMAGE|id=262|file=031/foto0264.jpg|expected=031|sha256=950E8CE217B9160AF4FDF98B5B170288BF97433B46804116453C1DC4721FCCA6|crc32=1058F1F2|resize=160x120|pad=0,20
+EI_RESULT|id=262|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12559|inference_us=333548|postprocess_us=238|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357568
+EI_BOX|id=262|index=1|label=031|confidence=0.960938|x=80|y=72|w=8|h=8
+EI_DONE|id=262
+PC_IMAGE|id=263|file=031/foto0265.jpg|expected=031|sha256=059EEB4829782C0C062E592C64071F6B74653E433E55CB08D90477AF9F78974A|crc32=27A9DA5C|resize=160x120|pad=0,20
+EI_RESULT|id=263|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=12558|inference_us=333587|postprocess_us=203|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357568
+EI_DONE|id=263
+PC_IMAGE|id=264|file=031/foto0266.jpg|expected=031|sha256=0F9F8C481C780738057E11B004B7161441A00FF89287B94762F5D41C774CE1C6|crc32=838E9760|resize=160x120|pad=0,20
+EI_RESULT|id=264|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=12558|inference_us=333571|postprocess_us=197|heap_before=362804|heap_after=362804|psram_before=8309459|psram_after=8309459|min_heap=357568
+EI_DONE|id=264
+PC_IMAGE|id=265|file=031/foto0267.jpg|expected=031|sha256=7A337121CF141B495D6FAB016E4327CD4590F5B4778CF94D53936EF890330D69|crc32=BB685195|resize=160x120|pad=0,20

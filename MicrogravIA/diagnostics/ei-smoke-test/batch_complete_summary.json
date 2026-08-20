@@ -1,0 +1,75 @@
+﻿{
+    "Inventory":  {
+                      "Class031":  308,
+                      "Class045":  310,
+                      "Total":  618
+                  },
+    "Class031":  {
+                     "Label":  "031",
+                     "Total":  308,
+                     "Correct":  205,
+                     "NoDetection":  102,
+                     "Confused":  0,
+                     "Ambiguous":  1,
+                     "CorrectRate":  0.66558441558441561,
+                     "ConfidenceMin":  0.5,
+                     "ConfidenceMean":  0.82406631707317068,
+                     "ConfidenceMedian":  0.886719,
+                     "ConfidenceMax":  0.988281
+                 },
+    "Class045":  {
+                     "Label":  "045",
+                     "Total":  310,
+                     "Correct":  7,
+                     "NoDetection":  303,
+                     "Confused":  0,
+                     "Ambiguous":  0,
+                     "CorrectRate":  0.022580645161290321,
+                     "ConfidenceMin":  0.511719,
+                     "ConfidenceMean":  0.63950900000000011,
+                     "ConfidenceMedian":  0.617188,
+                     "ConfidenceMax":  0.777344
+                 },
+    "Matrix":  {
+                   "Expected031":  {
+                                       "Detected031":  205,
+                                       "Detected045":  0,
+                                       "None":  102,
+                                       "Ambiguous":  1
+                                   },
+                   "Expected045":  {
+                                       "Detected031":  0,
+                                       "Detected045":  7,
+                                       "None":  303,
+                                       "Ambiguous":  0
+                                   }
+               },
+    "Runtime":  {
+                    "Inferences":  618,
+                    "DspMeanUs":  4273.852750809061,
+                    "InferenceMeanUs":  117134.74757281554,
+                    "InferenceMinUs":  117115,
+                    "InferenceMaxUs":  117154,
+                    "PostprocessMeanUs":  122.91262135922329,
+                    "AcceptedBoots":  31,
+                    "EdgeImpulseErrors":  0,
+                    "Crashes":  0,
+                    "Watchdogs":  0
+                },
+    "Memory":  {
+                   "HeapBeforeMin":  335156,
+                   "HeapBeforeMax":  335964,
+                   "HeapDeltaMin":  -456,
+                   "HeapDeltaMax":  0,
+                   "HeapDeltaZeroCount":  587,
+                   "HeapOneTimeInitializationCount":  31,
+                   "PsramBeforeMin":  8386275,
+                   "PsramBeforeMax":  8386275,
+                   "PsramDeltaMin":  0,
+                   "PsramDeltaMax":  0
+               },
+    "Boxes":  {
+                  "Total":  214,
+                  "ImagesWithMultipleBoxes":  1
+              }
+}

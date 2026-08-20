@@ -1,0 +1,10 @@
+{
+  "name": "Micropulsionador_v2_inferencing",
+  "version": "1.0.2",
+  "description": "Edge Impulse Micropulsionador deploy version 2 (local generated sources)",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "build": {
+    "srcDir": "src"
+  }
+}

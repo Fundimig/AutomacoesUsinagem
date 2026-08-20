@@ -1,0 +1,172 @@
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x15 (USB_UART_CHIP_RESET),boot:0x8 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x4202b966
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce3808,len:0x4bc
+load:0x403c9700,len:0xbd8
+load:0x403cc700,len:0x2a0c
+entry 0x403c98d0
+
+========================================
+EDGE IMPULSE FOMO BATCH RUNNER
+========================================
+Chip: ESP32-S3
+PSRAM total: 8386279 bytes
+Heap free: 335964 bytes
+EI_BATCH_READY|width=96|height=96|channels=3|bytes=27648
+PC_IMAGE|id=101|file=031/foto0103.jpg|expected=031|sha256=FD9B1B4EDB608C3C4058BFE28DC83F546118C67093124E6C5F772D861EACF5ED|crc32=939E85EA
+
+Image 101, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117135 us
+EI_RESULT|id=101|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4279|inference_us=117135|postprocess_us=228|heap_before=335964|heap_after=335508|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.976562 x=56 y=64 w=8 h=8
+EI_BOX|id=101|index=1|label=031|confidence=0.976562|x=56|y=64|w=8|h=8
+EI_DONE|id=101
+PC_IMAGE|id=102|file=031/foto0104.jpg|expected=031|sha256=3D5DDD1D60AFD2FE1586FDDC3C85212C3498668CDD675A4DD394D83B5EDA1B32|crc32=11BBC727
+
+Image 102, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117143 us
+EI_RESULT|id=102|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4271|inference_us=117143|postprocess_us=145|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.964844 x=56 y=64 w=8 h=8
+EI_BOX|id=102|index=1|label=031|confidence=0.964844|x=56|y=64|w=8|h=8
+EI_DONE|id=102
+PC_IMAGE|id=103|file=031/foto0105.jpg|expected=031|sha256=EDAE12CC90EBEF002E435237D620622EA57DBFD6CB756737067DF1821F09990B|crc32=6B17CA91
+
+Image 103, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117145 us
+EI_RESULT|id=103|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4280|inference_us=117145|postprocess_us=145|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.812500 x=56 y=64 w=8 h=8
+EI_BOX|id=103|index=1|label=031|confidence=0.812500|x=56|y=64|w=8|h=8
+EI_DONE|id=103
+PC_IMAGE|id=104|file=031/foto0106.jpg|expected=031|sha256=499E237FD1EBDC02695BE17AE9CCBC9A37ADB8EF08EB5F139E1BE921087D22C7|crc32=5A115D3E
+
+Image 104, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117136 us
+EI_RESULT|id=104|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4275|inference_us=117136|postprocess_us=144|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.890625 x=56 y=64 w=8 h=8
+EI_BOX|id=104|index=1|label=031|confidence=0.890625|x=56|y=64|w=8|h=8
+EI_DONE|id=104
+PC_IMAGE|id=105|file=031/foto0107.jpg|expected=031|sha256=1A77CFC18B9EADF366405AA05EC14492537043EFD1C99BA89049F21C26297B20|crc32=893FFA65
+
+Image 105, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117143 us
+EI_RESULT|id=105|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=4273|inference_us=117143|postprocess_us=102|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+No objects detected
+EI_DONE|id=105
+PC_IMAGE|id=106|file=031/foto0108.jpg|expected=031|sha256=9AB8556C64FEED090A705465C551D8300FF9C0DE346DF6D6F8919A633A16F9FA|crc32=1BE68C70
+
+Image 106, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117136 us
+EI_RESULT|id=106|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4273|inference_us=117136|postprocess_us=147|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.558594 x=56 y=64 w=8 h=8
+EI_BOX|id=106|index=1|label=031|confidence=0.558594|x=56|y=64|w=8|h=8
+EI_DONE|id=106
+PC_IMAGE|id=107|file=031/foto0109.jpg|expected=031|sha256=036919517FD518735B008548159AA6CA2BA52C427864A57D4696C83135FD674F|crc32=B1A9B5DC
+
+Image 107, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117140 us
+EI_RESULT|id=107|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=4281|inference_us=117140|postprocess_us=102|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+No objects detected
+EI_DONE|id=107
+PC_IMAGE|id=108|file=031/foto0110.jpg|expected=031|sha256=6AC0C67DE8F8EE06C23B1ABD3E9B5BE1DB3B46E7767C8A0AD2E9E774A8D02ACC|crc32=28DCEECE
+
+Image 108, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117142 us
+EI_RESULT|id=108|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4273|inference_us=117142|postprocess_us=148|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.937500 x=56 y=64 w=8 h=8
+EI_BOX|id=108|index=1|label=031|confidence=0.937500|x=56|y=64|w=8|h=8
+EI_DONE|id=108
+PC_IMAGE|id=109|file=031/foto0111.jpg|expected=031|sha256=650213FEED0A77AE25717B7BA626D418A53977977863E80129C9C09450F8A1F8|crc32=D1B18FBA
+
+Image 109, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117143 us
+EI_RESULT|id=109|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4274|inference_us=117143|postprocess_us=145|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.773438 x=56 y=64 w=8 h=8
+EI_BOX|id=109|index=1|label=031|confidence=0.773438|x=56|y=64|w=8|h=8
+EI_DONE|id=109
+PC_IMAGE|id=110|file=031/foto0112.jpg|expected=031|sha256=828524CECF52E410C8DDB03E8A7C03EB1EA50C589B1D7FB193507D53C8DFF72A|crc32=BA8CFC02
+
+Image 110, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117140 us
+EI_RESULT|id=110|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4272|inference_us=117140|postprocess_us=146|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.785156 x=56 y=64 w=8 h=8
+EI_BOX|id=110|index=1|label=031|confidence=0.785156|x=56|y=64|w=8|h=8
+EI_DONE|id=110
+PC_IMAGE|id=111|file=031/foto0113.jpg|expected=031|sha256=42882C99BEDF83D4865646A0363AD9F0A9C6A70BB0EA908E7F16A8DC4C12C93E|crc32=B8F49B77
+
+Image 111, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117148 us
+EI_RESULT|id=111|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4274|inference_us=117148|postprocess_us=145|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.933594 x=56 y=64 w=8 h=8
+EI_BOX|id=111|index=1|label=031|confidence=0.933594|x=56|y=64|w=8|h=8
+EI_DONE|id=111
+PC_IMAGE|id=112|file=031/foto0114.jpg|expected=031|sha256=53FEFC515C44DA2851B7A1FEDEC544A6D59BF22C22F3252E246F1B27D1B35A38|crc32=487FA22B
+
+Image 112, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117139 us
+EI_RESULT|id=112|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=4273|inference_us=117139|postprocess_us=101|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+No objects detected
+EI_DONE|id=112
+PC_IMAGE|id=113|file=031/foto0115.jpg|expected=031|sha256=6F08B77D50F59F806E5BAF40D8A04EC5098D9F281E7A5FA6545C848D86C07DB1|crc32=C66720B4
+
+Image 113, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117125 us
+EI_RESULT|id=113|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4281|inference_us=117125|postprocess_us=148|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.929688 x=56 y=64 w=8 h=8
+EI_BOX|id=113|index=1|label=031|confidence=0.929688|x=56|y=64|w=8|h=8
+EI_DONE|id=113
+PC_IMAGE|id=114|file=031/foto0116.jpg|expected=031|sha256=217D8B5CA509D26AD7594B3EAF4C113E1709F3FDF94B0F7C1FE25D03F505DE67|crc32=D1A93BE3
+
+Image 114, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117143 us
+EI_RESULT|id=114|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=4270|inference_us=117143|postprocess_us=102|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+No objects detected
+EI_DONE|id=114
+PC_IMAGE|id=115|file=031/foto0117.jpg|expected=031|sha256=F9D6A557F7F1FBC0D6676079D491B988A0017B8E03A34E7518ABC46E55D34D55|crc32=587C2F6C
+
+Image 115, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117124 us
+EI_RESULT|id=115|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=4282|inference_us=117124|postprocess_us=102|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+No objects detected
+EI_DONE|id=115
+PC_IMAGE|id=116|file=031/foto0118.jpg|expected=031|sha256=D1953A813E41CC152FE1489AC78FF5683284EB25BDF416A6DB5F29CA37B15D4F|crc32=C7DF9653
+
+Image 116, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117138 us
+EI_RESULT|id=116|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4271|inference_us=117138|postprocess_us=147|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.902344 x=56 y=64 w=8 h=8
+EI_BOX|id=116|index=1|label=031|confidence=0.902344|x=56|y=64|w=8|h=8
+EI_DONE|id=116
+PC_IMAGE|id=117|file=031/foto0119.jpg|expected=031|sha256=BF1796C56CB767ABBDAEEB3E7C5C988B00F32B4010E274105CC1EE1CA84E538E|crc32=8E7D3FB4
+
+Image 117, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117137 us
+EI_RESULT|id=117|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4282|inference_us=117137|postprocess_us=144|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.953125 x=56 y=64 w=8 h=8
+EI_BOX|id=117|index=1|label=031|confidence=0.953125|x=56|y=64|w=8|h=8
+EI_DONE|id=117
+PC_IMAGE|id=118|file=031/foto0120.jpg|expected=031|sha256=6CF8BBDD5D432AAFAFC05F3B7B8EDD6B50B80550CC2051F40CD44B111E1FF755|crc32=B4B0AF56
+
+Image 118, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117151 us
+EI_RESULT|id=118|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4273|inference_us=117151|postprocess_us=151|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.964844 x=56 y=64 w=16 h=8
+EI_BOX|id=118|index=1|label=031|confidence=0.964844|x=56|y=64|w=16|h=8
+EI_DONE|id=118
+PC_IMAGE|id=119|file=031/foto0121.jpg|expected=031|sha256=DE0D110C39232A91E057593A6A9C0DC31B827834C0EC1DC26C5CFFE2E28A501A|crc32=CDBEBE2B
+
+Image 119, expected 031
+Result OK: raw boxes=1, valid boxes=1, inference=117150 us
+EI_RESULT|id=119|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=4272|inference_us=117150|postprocess_us=145|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+Detection 1: label=031 confidence=0.914062 x=56 y=64 w=8 h=8
+EI_BOX|id=119|index=1|label=031|confidence=0.914062|x=56|y=64|w=8|h=8
+EI_DONE|id=119
+PC_IMAGE|id=120|file=031/foto0122.jpg|expected=031|sha256=977076EB9981FFAFD58995B48FD806454FDA0B26EAAD626686DEA5A11C710707|crc32=077992CE
+
+Image 120, expected 031
+Result OK: raw boxes=0, valid boxes=0, inference=117138 us
+EI_RESULT|id=120|expected=031|status=OK|error=0|raw_boxes=0|valid_boxes=0|dsp_us=4279|inference_us=117138|postprocess_us=100|heap_before=335156|heap_after=335156|psram_before=8386275|psram_after=8386275
+No objects detected
+EI_DONE|id=120

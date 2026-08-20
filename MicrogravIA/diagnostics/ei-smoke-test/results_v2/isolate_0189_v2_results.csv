@@ -1,0 +1,2 @@
+﻿"Id","File","Expected","Detected","Confidence","AllConfidences","Boxes","RawBoxes","Result","DspUs","InferenceUs","PostprocessUs","HeapBefore","HeapAfter","PsramBefore","PsramAfter","MinHeap","Width","Height","SHA256","Crc32"
+"1","031/foto0189.jpg","031","031","0,996094","0.996094","1","1","CORRETA","12530","332698","257","363156","363156","8309459","8309459","357844","1600","1200","F669408676FA6A5F0AAA41B5B2957A6B4D55673AD26EDE3F444AA0C6B775BD6E","B31C3EB4"

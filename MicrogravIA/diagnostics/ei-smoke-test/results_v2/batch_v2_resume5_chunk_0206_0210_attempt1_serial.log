@@ -1,0 +1,58 @@
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x15 (USB_UART_CHIP_RESET),boot:0x8 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x4202bf92
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce3808,len:0x4bc
+load:0x403c9700,len:0xbd8
+load:0x403cc700,len:0x2a0c
+entry 0x403c98d0
+
+========================================
+EDGE IMPULSE FOMO V2 RUNTIME/BATCH TEST
+========================================
+Chip: ESP32-S3
+Flash: 16777216 bytes
+Heap total: 388068 bytes
+Heap free: 363612 bytes
+Minimum heap free: 358464 bytes
+PSRAM total: 8386279 bytes
+PSRAM free: 8386275 bytes
+Model input: 160x160x1, output grid: 20x20
+Labels: 031, 045
+Resize mode: FIT_LONGEST
+EI_SMOKE_BEGIN|count=10|heap=363612|psram=8386275|min_heap=358464
+EI_SMOKE|index=1|error=0|boxes=0|dsp_us=10534|inference_us=330730|postprocess_us=268|heap=363156|psram=8386275|min_heap=358008
+EI_SMOKE|index=2|error=0|boxes=0|dsp_us=10525|inference_us=330734|postprocess_us=199|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=3|error=0|boxes=0|dsp_us=10525|inference_us=330726|postprocess_us=198|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=4|error=0|boxes=0|dsp_us=10525|inference_us=330725|postprocess_us=199|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=5|error=0|boxes=0|dsp_us=10523|inference_us=330733|postprocess_us=197|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=6|error=0|boxes=0|dsp_us=10525|inference_us=330731|postprocess_us=199|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=7|error=0|boxes=0|dsp_us=10524|inference_us=330744|postprocess_us=198|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=8|error=0|boxes=0|dsp_us=10524|inference_us=330742|postprocess_us=199|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=9|error=0|boxes=0|dsp_us=10524|inference_us=330730|postprocess_us=197|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE|index=10|error=0|boxes=0|dsp_us=10525|inference_us=330725|postprocess_us=198|heap=363156|psram=8386275|min_heap=357864
+EI_SMOKE_FINAL|pass=1|heap_before=363612|heap_after=363156|heap_delta=-456|psram_before=8386275|psram_after=8386275|psram_delta=0|min_heap=357860
+EI_BUFFER|location=PSRAM|bytes=76800|psram_free=8309459
+EI_BATCH_READY|width=160|height=160|channels=3|bytes=76800|resize=FIT_LONGEST
+PC_IMAGE|id=206|file=031/foto0208.jpg|expected=031|sha256=457DC6002CF1571FA193A559C23717E0292CDA5A9C58D8575F1CEE018B05D875|crc32=558EE82F|resize=160x120|pad=0,20
+EI_RESULT|id=206|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12529|inference_us=332611|postprocess_us=256|heap_before=363156|heap_after=363156|psram_before=8309459|psram_after=8309459|min_heap=357844
+EI_BOX|id=206|index=1|label=031|confidence=0.996094|x=88|y=104|w=16|h=16
+EI_DONE|id=206
+PC_IMAGE|id=207|file=031/foto0209.jpg|expected=031|sha256=EB3C237A8CFA089B0BCF01E624BDD5FE23C0AE0AEA9A961CB4A1AA737AA5A31A|crc32=81CDC51D|resize=160x120|pad=0,20
+EI_RESULT|id=207|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12528|inference_us=332616|postprocess_us=254|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_BOX|id=207|index=1|label=031|confidence=0.988281|x=88|y=104|w=16|h=16
+EI_DONE|id=207
+PC_IMAGE|id=208|file=031/foto0210.jpg|expected=031|sha256=F208224941F2717619506D1CE4FD6E247E9A5DF5CEA7F53118550CE1B21002C7|crc32=07BC8121|resize=160x120|pad=0,20
+EI_RESULT|id=208|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12529|inference_us=332621|postprocess_us=253|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_BOX|id=208|index=1|label=031|confidence=0.996094|x=88|y=104|w=16|h=16
+EI_DONE|id=208
+PC_IMAGE|id=209|file=031/foto0211.jpg|expected=031|sha256=3DD12A6718785878FA67506128B23ABA2B8B07A193D5D098A49DE5E355FD00BB|crc32=96879280|resize=160x120|pad=0,20
+EI_RESULT|id=209|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12530|inference_us=332613|postprocess_us=247|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_BOX|id=209|index=1|label=031|confidence=0.996094|x=88|y=104|w=16|h=16
+EI_DONE|id=209
+PC_IMAGE|id=210|file=031/foto0212.jpg|expected=031|sha256=4A21992E089E9692E36CD9EF0B0F034394F81D2654D902FEE9B38181EF5AE8D6|crc32=9BEC6252|resize=160x120|pad=0,20
+EI_RESULT|id=210|expected=031|status=OK|error=0|raw_boxes=1|valid_boxes=1|dsp_us=12528|inference_us=332655|postprocess_us=247|heap_before=362892|heap_after=362892|psram_before=8309459|psram_after=8309459|min_heap=357652
+EI_BOX|id=210|index=1|label=031|confidence=0.996094|x=88|y=104|w=16|h=16
+EI_DONE|id=210

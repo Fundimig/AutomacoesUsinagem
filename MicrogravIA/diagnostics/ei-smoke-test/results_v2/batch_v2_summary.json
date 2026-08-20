@@ -1,0 +1,119 @@
+{
+  "validation": {
+    "inventory_rows": 618,
+    "result_rows": 618,
+    "unique_ids": 618,
+    "inventory_match": true,
+    "box_count_match": true
+  },
+  "model": {
+    "project_id": 1091379,
+    "impulse_id": 1,
+    "deploy_version": 2,
+    "input": "160x160x1",
+    "resize_mode": "FIT_LONGEST",
+    "type": "FOMO",
+    "labels": [
+      "031",
+      "045"
+    ],
+    "threshold": 0.5,
+    "quantized": true,
+    "eon": true,
+    "arena_metadata_bytes": 479948,
+    "arena_compiled_bytes": 399616
+  },
+  "inventory": {
+    "031": 308,
+    "045": 310,
+    "total": 618
+  },
+  "class_031": {
+    "label": "031",
+    "total": 308,
+    "correct": 281,
+    "no_detection": 26,
+    "confused": 0,
+    "ambiguous": 1,
+    "runtime_error": 0,
+    "correct_rate": 0.9123376623376623,
+    "confidence_min": 0.542969,
+    "confidence_mean": 0.985237103202847,
+    "confidence_median": 0.996094,
+    "confidence_max": 0.996094
+  },
+  "class_045": {
+    "label": "045",
+    "total": 310,
+    "correct": 292,
+    "no_detection": 1,
+    "confused": 0,
+    "ambiguous": 17,
+    "runtime_error": 0,
+    "correct_rate": 0.9419354838709677,
+    "confidence_min": 0.925781,
+    "confidence_mean": 0.9958532020547944,
+    "confidence_median": 0.996094,
+    "confidence_max": 0.996094
+  },
+  "matrix": {
+    "expected_031": {
+      "031": 281,
+      "045": 0,
+      "NONE": 26,
+      "AMBIGUA": 1,
+      "ERROR": 0
+    },
+    "expected_045": {
+      "031": 0,
+      "045": 292,
+      "NONE": 1,
+      "AMBIGUA": 17,
+      "ERROR": 0
+    }
+  },
+  "performance_us": {
+    "dsp_mean": 12540.472491909386,
+    "inference_mean": 332980.32524271845,
+    "inference_min": 332467,
+    "inference_max": 333896,
+    "postprocess_mean": 249.75080906148867
+  },
+  "memory_batch": {
+    "heap_before_first": 363156,
+    "heap_after_first": 363156,
+    "heap_after_final": 362892,
+    "heap_before_min": 362804,
+    "minimum_heap_observed": 357508,
+    "heap_delta_min": 0,
+    "heap_delta_max": 0,
+    "psram_before_first": 8309459,
+    "psram_after_first": 8309459,
+    "psram_after_final": 8309459,
+    "psram_delta_min": 0,
+    "psram_delta_max": 0
+  },
+  "runtime": {
+    "physical_inferences": 618,
+    "edge_impulse_errors": 0,
+    "accepted_boots": 204,
+    "crashes": 0,
+    "watchdogs": 0,
+    "allocation_failures": 0
+  },
+  "boxes": {
+    "total": 619,
+    "images_with_zero": 27,
+    "images_with_one": 565,
+    "images_with_multiple": 26
+  },
+  "build": {
+    "ram_static_bytes": 24104,
+    "ram_static_percent": 7.4,
+    "flash_linker_bytes": 373717,
+    "flash_percent": 5.7,
+    "firmware_bin_bytes": 374080,
+    "firmware_bin_sha256": "C64EEE5559D75C13A224EBAE56868B37992D28506577BEEA1B6218C3D3EDF32A"
+  },
+  "conclusion": "NOVO MODELO FUNCIONA MAS AINDA APRESENTA FALHAS"
+}

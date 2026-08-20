@@ -1,0 +1,2 @@
+﻿"Id","File","Expected","Detected","Confidence","AllConfidences","Boxes","RawBoxes","Result","DspUs","InferenceUs","PostprocessUs","HeapBefore","HeapAfter","PsramBefore","PsramAfter","Width","Height","SHA256","Crc32"
+"265","031/foto0267.jpg","031","NONE","0","","0","0","SEM_DETECCAO","4274","117131","175","335964","335508","8386275","8386275","1600","1200","7A337121CF141B495D6FAB016E4327CD4590F5B4778CF94D53936EF890330D69","089BA104"

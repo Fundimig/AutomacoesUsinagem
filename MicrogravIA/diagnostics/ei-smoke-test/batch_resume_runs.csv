@@ -1,0 +1,4 @@
+﻿"FirstId","LastId","Attempt","ExitCode","CompletedRows","Accepted","ResultsFile","SerialFile"
+"261","280","1","1","4","False","batch_resume_chunk_0261_0280_attempt1_results.csv","batch_resume_chunk_0261_0280_attempt1_serial.log"
+"261","280","2","1","4","False","batch_resume_chunk_0261_0280_attempt2_results.csv","batch_resume_chunk_0261_0280_attempt2_serial.log"
+"261","280","3","1","4","False","batch_resume_chunk_0261_0280_attempt3_results.csv","batch_resume_chunk_0261_0280_attempt3_serial.log"

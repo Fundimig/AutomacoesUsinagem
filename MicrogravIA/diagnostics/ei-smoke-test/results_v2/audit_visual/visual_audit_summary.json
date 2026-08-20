@@ -1,0 +1,114 @@
+{
+  "counts": {
+    "no_detection": 27,
+    "ambiguous": 18,
+    "total": 45
+  },
+  "cause_distribution": [
+    {
+      "Cause": "PECA_FORA_POSICAO",
+      "031": 0,
+      "045": 0,
+      "Total": 0
+    },
+    {
+      "Cause": "PECA_ROTACIONADA",
+      "031": 11,
+      "045": 0,
+      "Total": 11
+    },
+    {
+      "Cause": "OCLUSAO_MAO",
+      "031": 10,
+      "045": 1,
+      "Total": 11
+    },
+    {
+      "Cause": "OCLUSAO_OBJETO",
+      "031": 0,
+      "045": 0,
+      "Total": 0
+    },
+    {
+      "Cause": "REFLEXO_ILUMINACAO",
+      "031": 0,
+      "045": 0,
+      "Total": 0
+    },
+    {
+      "Cause": "DESFOQUE_MOVIMENTO",
+      "031": 2,
+      "045": 0,
+      "Total": 2
+    },
+    {
+      "Cause": "FUNDO_INTERFERINDO",
+      "031": 0,
+      "045": 0,
+      "Total": 0
+    },
+    {
+      "Cause": "BOX_ESPURIA_FORA_PECA",
+      "031": 0,
+      "045": 4,
+      "Total": 4
+    },
+    {
+      "Cause": "MODELO_FALHOU_COM_PECA_BEM_VISIVEL",
+      "031": 4,
+      "045": 12,
+      "Total": 16
+    },
+    {
+      "Cause": "INDETERMINADO",
+      "031": 0,
+      "045": 1,
+      "Total": 1
+    }
+  ],
+  "ambiguous_delta_all": {
+    "count": 18,
+    "min": 0.070313,
+    "mean": 0.37565133333333334,
+    "median": 0.414063,
+    "max": 0.496094
+  },
+  "ambiguous_delta_045": {
+    "count": 17,
+    "min": 0.128906,
+    "mean": 0.3936124117647059,
+    "median": 0.414063,
+    "max": 0.496094
+  },
+  "incorrect_box_locations": {
+    "SOBRE_PECA": 13,
+    "SOBRE_MAO": 6
+  },
+  "correct_box_locations": {
+    "SOBRE_PECA": 19
+  },
+  "potential_roi": {
+    "useful": true,
+    "coordinates": {
+      "x_min": 64,
+      "y_min": 80,
+      "x_max": 104,
+      "y_max": 120
+    },
+    "correct_dataset_boxes_inside": 575,
+    "correct_dataset_boxes_total": 581,
+    "correct_dataset_retention": 0.9896729776247849,
+    "ambiguous_correct_boxes_inside": 19,
+    "ambiguous_correct_boxes_total": 19,
+    "incorrect_ambiguous_boxes_rejected": 17,
+    "incorrect_ambiguous_boxes_total": 19
+  },
+  "well_captured_no_detection": [
+    "031/foto0286.jpg",
+    "031/foto0287.jpg",
+    "031/foto0288.jpg",
+    "031/foto0290.jpg"
+  ],
+  "conclusion": "RESULTADO MISTO",
+  "next_action": "DEFINIR ROI/POLITICA SEGURA"
+}

@@ -1,0 +1,4 @@
+﻿"FirstId","LastId","Attempt","ExitCode","CompletedRows","Accepted","ResultsFile","SerialFile"
+"613","614","1","0","2","True","batch_v2_tail2_chunk_0613_0614_attempt1_results.csv","batch_v2_tail2_chunk_0613_0614_attempt1_serial.log"
+"615","616","1","0","2","True","batch_v2_tail2_chunk_0615_0616_attempt1_results.csv","batch_v2_tail2_chunk_0615_0616_attempt1_serial.log"
+"617","618","1","0","2","True","batch_v2_tail2_chunk_0617_0618_attempt1_results.csv","batch_v2_tail2_chunk_0617_0618_attempt1_serial.log"

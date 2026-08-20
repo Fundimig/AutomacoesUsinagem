@@ -1,0 +1,1302 @@
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pywinauto
+PASSO 3 - pywinauto importado
+PASSO 4 - Importando pygetwindow
+PASSO 5 - pygetwindow importado
+PASSO 6 - Listando janelas detectadas
+JANELAS DETECTADAS:
+''
+''
+''
+'Rastreabilidade Laser'
+'main.py - IHM - Visual Studio Code'
+'Microsoft 365 Copilot'
+'HORUS-Lite  - No title'
+'Desenvolvimento e 2 mais guias - Explorador de Arquivos'
+'Caixa de Entrada - marcel.silva@fundimig.com.br - Outlook'
+''
+''
+''
+''
+''
+'Configurações'
+'Configurações'
+''
+'Program Manager'
+PASSO 7 - Listando janelas HORUS
+JANELAS HORUS:
+'HORUS-Lite  - No title'
+PASSO 8 - Conectando ao HORUS
+PASSO 9 - HORUS encontrado
+PASSO 10 - Procurando janela HORUS
+PASSO 11 - Janela HORUS encontrada
+PASSO 12 - Enviando CTRL+O
+PASSO 13 - CTRL+O enviado
+PASSO 14 - Procurando janela Abrir
+PASSO 14 - Procurando janela Abrir
+PASSO 14 - Procurando janela Abrir
+PASSO 14 - Procurando janela Abrir
+PASSO 14 - Procurando janela Abrir
+PASSO 14 - Procurando janela Abrir
+PASSO 14 - Procurando janela Abrir
+PASSO 14 - Procurando janela Abrir
+PASSO 14 - Procurando janela Abrir
+PASSO 14 - Procurando janela Abrir
+ERRO REAL: Janela Abrir não encontrada
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pywinauto
+PASSO 3 - pywinauto importado
+PASSO 4 - Importando pyperclip
+PASSO 5 - pyperclip importado
+PASSO 6 - Conectando ao HORUS
+PASSO 7 - HORUS encontrado
+PASSO 8 - Procurando janela HORUS
+PASSO 9 - Janela HORUS encontrada
+PASSO 10 - Dando foco ao HORUS
+PASSO 11 - HORUS em foco
+PASSO 12 - Enviando CTRL+O
+CTRL+O
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Enviando CTRL+V
+CTRL+V
+PASSO 15 - Enviando ENTER
+ENTER
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pywinauto
+PASSO 3 - pywinauto importado
+PASSO 4 - Importando pyperclip
+PASSO 5 - pyperclip importado
+PASSO 6 - Conectando ao HORUS
+PASSO 7 - HORUS encontrado
+PASSO 8 - Procurando janela HORUS
+ERRO REAL: timed out
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pywinauto
+PASSO 3 - pywinauto importado
+PASSO 4 - Importando pyperclip
+PASSO 5 - pyperclip importado
+PASSO 6 - Conectando ao HORUS
+PASSO 7 - HORUS encontrado
+PASSO 8 - Obtendo top_window do HORUS
+ERRO HORUS: No windows for that process could be found
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - No title'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - No title'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT314'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: LOGO_FUNDIMIG
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pywinauto
+PASSO 3 - pywinauto importado
+PASSO 4 - Importando pyperclip
+PASSO 5 - pyperclip importado
+PASSO 6 - Conectando ao HORUS
+PASSO 7 - HORUS encontrado
+PASSO 8 - Obtendo top_window do HORUS
+Janela encontrada: HORUS-Lite  - LOGO_FUNDIMIG
+PASSO 9 - Dando foco ao HORUS
+PASSO 10 - HORUS em foco
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT626
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+ERRO HORUS: 
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pywinauto
+PASSO 3 - pywinauto importado
+PASSO 4 - Importando pyperclip
+PASSO 5 - pyperclip importado
+PASSO 6 - Conectando ao HORUS
+PASSO 7 - HORUS encontrado
+PASSO 8 - Procurando janela HORUS
+ERRO REAL: timed out
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - LOGO_FUNDIMIG'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - No title'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pywinauto
+PASSO 3 - pywinauto importado
+PASSO 4 - Importando pyperclip
+PASSO 5 - pyperclip importado
+PASSO 6 - Conectando ao HORUS
+PASSO 7 - HORUS encontrado
+PASSO 8 - Obtendo top_window do HORUS
+Janela encontrada: HORUS-Lite  - No title
+PASSO 9 - Dando foco ao HORUS
+PASSO 10 - HORUS em foco
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: LOGO_FUNDIMIG
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+ERRO HORUS: 
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 0
+ERRO HORUS: Nenhuma janela HORUS encontrada
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - No title'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT314'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT626
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT626'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: LOGO_FUNDIMIG
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - LOGO_FUNDIMIG'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT314'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT626
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT626'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT626'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT314'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: LOGO_FUNDIMIG
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - LOGO_FUNDIMIG'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT626
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT626'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT314'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT314'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: LOGO_FUNDIMIG
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - LOGO_FUNDIMIG'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT314'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT314'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: LOGO_FUNDIMIG
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - LOGO_FUNDIMIG'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT626
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT626'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: LOGO_FUNDIMIG
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - BOSCH127'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT626
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT626'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT626'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: BOSCH127
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Entrou na função
+PASSO 2 - Importando pygetwindow
+PASSO 3 - pygetwindow importado
+PASSO 4 - Importando pyautogui
+PASSO 5 - pyautogui importado
+PASSO 6 - Importando pyperclip
+PASSO 7 - pyperclip importado
+PASSO 8 - Procurando janela HORUS
+HORUS windows encontradas: 1
+Janela HORUS: 'HORUS-Lite  - CAT626'
+HORUS encontrado
+Janela ativa atual salva: 'Rastreabilidade Laser'
+PASSO 9 - Ativando HORUS
+PASSO 10 - HORUS ativado
+PASSO 11 - Enviando CTRL+O
+CTRL+O
+PASSO 12 - CTRL+O enviado
+PASSO 13 - Copiando para a área de transferência: CAT314
+PASSO 14 - Conteúdo copiado
+PASSO 15 - Enviando CTRL+V
+CTRL+V
+PASSO 16 - CTRL+V enviado
+PASSO 17 - Enviando ENTER
+ENTER
+PASSO 18 - ENTER enviado
+PASSO 19 - Devolvendo foco para IHM
+FOCO DEVOLVIDO PARA IHM
+CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - BOSCH127
+PASSO 4 - Procurando BOSCH127
+PASSO 5 - Executando: Arquivo->&1 BOSCH127
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - BOSCH127
+PASSO 4 - Procurando CAT314
+PASSO 5 - Executando: Arquivo->&3 CAT314
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - CAT314
+PASSO 4 - Procurando BOSCH127
+PASSO 5 - Executando: Arquivo->&2 BOSCH127
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - BOSCH127
+PASSO 4 - Procurando LOGO_FUNDIMIG
+PASSO 5 - Executando: Arquivo->&4 LOGO_FUNDIMIG
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - LOGO_FUNDIMIG
+PASSO 4 - Procurando BOSCH127
+PASSO 5 - Executando: Arquivo->&2 BOSCH127
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - BOSCH127
+PASSO 4 - Procurando CAT314
+PASSO 5 - Executando: Arquivo->&3 CAT314
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+Janela encontrada: HORUS-Lite  - No title
+Programa solicitado: BOSCH127
+Executando: Arquivo->&4 BOSCH127
+Programa carregado
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - BOSCH127
+PASSO 4 - Procurando CAT314
+PASSO 5 - Executando: Arquivo->&4 CAT314
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - CAT314
+PASSO 4 - Procurando BOSCH127
+PASSO 5 - Executando: Arquivo->&2 BOSCH127
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - BOSCH127
+PASSO 4 - Procurando CAT314
+PASSO 5 - Executando: Arquivo->&2 CAT314
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - CAT314
+PASSO 4 - Procurando LOGO_FUNDIMIG
+PASSO 5 - Executando: Arquivo->&4 LOGO_FUNDIMIG
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - LOGO_FUNDIMIG
+PASSO 4 - Procurando CAT626
+PASSO 5 - Executando: Arquivo->&4 CAT626
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - CAT626
+PASSO 4 - Procurando BOSCH127
+PASSO 5 - Executando: Arquivo->&4 BOSCH127
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - BOSCH127
+PASSO 4 - Procurando CAT314
+PASSO 5 - Executando: Arquivo->&4 CAT314
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 3 - Janela encontrada: HORUS-Lite  - CAT314
+PASSO 4 - Procurando CAT626
+PASSO 5 - Executando: Arquivo->&3 CAT626
+PASSO 6 - PROGRAMA CARREGADO
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+ERRO HORUS: {'title_re': '.*HORUS.*', 'top_level_only': True, 'backend': 'win32'}
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+ERRO HORUS: {'title_re': '.*HORUS.*', 'top_level_only': True, 'backend': 'win32'}
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+ERRO HORUS: {'title_re': '.*HORUS.*', 'top_level_only': True, 'backend': 'win32'}
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+ERRO HORUS: {'title_re': '.*HORUS.*', 'top_level_only': True, 'backend': 'win32'}
+ERRO HORUS: {'title_re': '.*HORUS.*', 'top_level_only': True, 'backend': 'win32'}
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+PASSO 1 - Importando pywinauto
+PASSO 2 - Procurando HORUS
+ERRO HORUS: {'title_re': '.*HORUS.*', 'top_level_only': True, 'backend': 'win32'}
+[20/08/2026 08:22:15] PASSO 1 - Importando pywinauto
+[20/08/2026 08:22:17] PASSO 2 - Procurando HORUS
+[20/08/2026 08:22:22] ERRO HORUS: timed out
+[20/08/2026 10:34:39] PASSO 1 - Importando pywinauto
+[20/08/2026 10:34:39] PASSO 2 - Procurando HORUS
+[20/08/2026 10:34:45] ERRO HORUS: timed out
+[20/08/2026 11:20:34] PASSO 1 - Importando pywinauto
+[20/08/2026 11:20:35] PASSO 2 - Procurando HORUS
+[20/08/2026 11:20:40] ERRO HORUS: timed out
+[20/08/2026 11:21:10] PASSO 1 - Importando pywinauto
+[20/08/2026 11:21:10] PASSO 2 - Procurando HORUS
+[20/08/2026 11:21:15] ERRO HORUS: timed out
+[20/08/2026 11:21:29] PASSO 1 - Importando pywinauto
+[20/08/2026 11:21:29] PASSO 2 - Procurando HORUS
+[20/08/2026 11:21:34] ERRO HORUS: timed out
